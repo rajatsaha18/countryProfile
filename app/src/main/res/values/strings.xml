@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">CountryProfile App</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="nepal_button">Nepal</string>
+
+    <string name="bangladesh_text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+        the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley
+        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of
+
+        Country Name: Bangladesh\n
+        Official Language: Bengali\n
+        Capital: Dhaka\n
+        Population: 180 Million(2023)\n
+        Currency: Bangladeshi Taka\n
+        Prime Minister: Sheikh Hasina\n
+
+
+    </string>
+    <string name="india_text">
+
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+        the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley
+        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of
+
+        Country Name: India\n
+        Official Language: Hindi\n
+        Capital: Delhi\n
+        Population: 1.4 Billion(2023)\n
+        Currency: Indian Rupee\n
+        Prime Minister: Narendra Modi\n
+
+
+    </string>
+    <string name="nepal_text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+        the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley
+        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of
+
+        Country Name: Nepal\n
+        Official Language: Nepali\n
+        Capital: Kathmundu\n
+        Population: 21 Million(2023)\n
+        Currency: Nepali Rupee\n
+        Prime Minister: Pushpa Kamal Dahal\n
+
+
+    </string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#148e73"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bangladeshButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bangladesh_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/bd_icon"
+
+        />
+    <Button
+        android:id="@+id/indiaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/india_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/india_icon"
+        />
+    <Button
+        android:id="@+id/nepalButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nepal_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/nepal_icon"
+        />
+
+</LinearLayout>
